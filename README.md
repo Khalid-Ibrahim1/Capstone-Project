@@ -21,8 +21,33 @@ The dataset contains x,y coordinates of each point in the body as shown in the f
 
 ![poses](media/MediaPipe-pose.jpeg)
 
+## Model
 
-
+The model is sequential from tensorflow, It consists of 3 LSTM layers with relu activation functions, then 2 Dense layers with relu also, and the output layer is a softmax with three classes. Here is the model summary.
+```
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ lstm (LSTM)                 (None, 30, 128)           133632    
+                                                                 
+ lstm_1 (LSTM)               (None, 30, 256)           394240    
+                                                                 
+ lstm_2 (LSTM)               (None, 128)               197120    
+                                                                 
+ dense (Dense)               (None, 128)               16512     
+                                                                 
+ dense_1 (Dense)             (None, 64)                8256      
+                                                                 
+ dense_2 (Dense)             (None, 3)                 195       
+                                                                 
+=================================================================
+Total params: 749,955
+Trainable params: 749,955
+Non-trainable params: 0
+_________________________________________________________________
+None
+```
 ##  Results
 
 
