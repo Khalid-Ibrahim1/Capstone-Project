@@ -6,12 +6,19 @@ Our proposed project takes advantages of AI technology, including Python, Mediap
 ## Team Members and Tasks 👥
 |Task |Khalid Alhumaidan | Rakan Almuwainie | Anwar Almutlaq | Abdullah Alowayyid
 |-|-|-|-|-
-|EDA and cleaning|✌|✌|✌|
-|Machine Learning modeling|✌ |✌ |✌|
-|Feature engineering and selection|✌| |✌|
-|Plotting charts|✌|✌|✌|
-|Creating Dashborad|  | |✌|
-|Creating README|✌|✌|✌ |
+|Business Problem|✌|✌|✌ |✌
+|Data Modeling|✌|✌|✌|✌
+|Training The Model|✌ |✌ |✌|✌
+|Calculate Angles|✌| ✌||✌
+|Visualize Angles |✌| ✌|✌|✌
+|Model Evaluation|✌|✌|✌ |✌
+|Model Re-Evaluation|✌||✌|✌
+|Model Deployment|✌|✌|✌|✌
+|Website Front-end|||✌|
+|Website Back-end|✌ |✌ |✌|✌
+|Create Dashboard|✌|| |
+|Presentation|✌|✌|✌ |✌
+|Creating README|✌|✌|✌ |✌
 
 
 
