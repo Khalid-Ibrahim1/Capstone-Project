@@ -19,10 +19,16 @@ Our proposed project takes advantages of AI technology, including Python, Mediap
 
 The dataset contains x,y coordinates of each point in the body as shown in the figure, and then, the LSTM model receives them and a label for which exercise it is. It does not need any cleaning and preprocessing.
 
+![poses](media/MediaPipe-pose.jpeg)
+
 
 
 ##  Results
 
-The video!!
+
+
+https://github.com/Khalid-Ibrahim1/Capstone-Project/assets/74132986/52cb817b-cb00-428c-9972-a4f83d484e83
+
+
 
 As you can see in the video, the model was able to detect all of the exercises, the correct and incorrect. So we can say that its accuracy is 100% :)
