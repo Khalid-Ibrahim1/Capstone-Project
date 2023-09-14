@@ -811,15 +811,15 @@ $(document).ready(function() {
   });
 
 
-$("#6reps").click(function(){
-    alert('I got a click');
-});
-$("#8reps").click(function(){
-    alert('I got a click');
-});
-$("#10reps").click(function(){
-    alert('I got a click');
-});
-$("#12reps").click(function(){
-    alert('I got a click');
-});
+//$("#6reps").click(function(){
+//    alert('I got a click');
+//});
+//$("#8reps").click(function(){
+//    alert('I got a click');
+//});
+//$("#10reps").click(function(){
+//    alert('I got a click');
+//});
+//$("#12reps").click(function(){
+//    alert('I got a click');
+//});
